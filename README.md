@@ -14,6 +14,13 @@ ZombieZurvival is a wave-based survival shooter built in Unity. You fight off zo
 
 ---
 
+## Quick Run (Prebuilt)
+If you just want to run the game without opening Unity:
+- Windows build: `ZombieZurvival (x64).exe`
+- Windows zip bundle: `ZombieZurvival-x64-v1.0.zip`
+
+---
+
 ## Game Loop
 - Waves spawn from `ZombieSpawnController` with a short delay between individual spawns (`spawnDelay`).
 - When all zombies in a wave are dead, the game enters a cooldown (`waveCoolDown`) and then starts the next wave.
