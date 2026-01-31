@@ -1,0 +1,28 @@
+# Unity folders
+Library/
+Logs/
+obj/
+UserSettings/
+Temp/
+
+# Builds
+*.app
+Build/
+Builds/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+# Crash reports
+mono_crash.*
+*.json
+
+# Unity generated
+ZombieZurvival_BurstDebugInformation_DoNotShip/
+

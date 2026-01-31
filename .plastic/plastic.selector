@@ -1,0 +1,3 @@
+rep "ZombieZurvival@Vecoza@cloud"
+  path "/"
+    smartbranch "/main"
